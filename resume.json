@@ -1,0 +1,92 @@
+{
+    "bio": {
+        "firstName": "Eli",
+        "lastName": "Hickox",
+        "email": {
+            "work": "eli@relateiq.com",
+            "personal": "ehicko2@illinois.edu"
+        },
+        "phone": {
+            "work": "(217) 246-1759",
+            "personal": "(217) 246-1759"
+        },
+        "location": {
+            "city": "Urbana",
+            "countryCode": "US",
+            "state": "Illinois"
+        },
+        "profiles": {
+            "github": "ehickox2012",
+            "twitter": "elihickox"
+        }
+    },
+    "work": [
+    {
+        "company": "RelateIQ",
+        "position": "Software Engineering Intern",
+        "website": "http://relateiq.com",
+        "startDate": "2014-05-05",
+        "endDate": "2014-06-29",
+        "highlights": [
+            "Designed and implemented an Abstract Base Class (ABC) that outlines a RelateIQ integration",
+            "Implemented a MailChimp-RelateIQ integration that inherits from the ABC",
+            "Rewrote existing integrations to inherit from ABC"
+        ]
+    }
+    ],
+    "education": [
+    {
+        "institution": "University of Illinois",
+        "startDate": "2012-08-25",
+        "endDate": "2016-12-01",
+        "area": "Mathematics and Computer Science",
+        "studyType": "Bachelor of Science",
+        "courses": [
+            "CS125 - Intro to Computer Science (Honors)",
+            "CS173 - Discrete Structures",
+            "CS225 - Data Structures",
+            "CS398 - Computer Architecture"
+        ],
+        "organizations": [
+        {
+            "name": "ACM SIGCoin",
+            "position": "Chair/Founder",
+            "summary": "Association for Computing Machinery Special Interest Group for crypto-currencies and their implications for finance and the economy."
+        }
+        ]
+    }
+    ],
+    "projects": [
+    {
+        "title": "Bitcoin Autotrader",
+        "summary": "I created a program that would algorithmically place Bitcoin trades based on the calculation and comparison of moving averages. The program is currently configured to use Bitstamp's API."
+    },
+    {
+        "title": "Dinner Selector",
+        "summary": "Java application to settle disagreements over where to eat dinner. Database of restaurants was customizable by user and categorized by price range. User would input his/her price range and the app would randomly select a restaurant in that range."
+    }
+    ],
+    "awards": [
+    {
+        "title": "Illinois State Scholar",
+        "awarder": "State of Illinois",
+        "summary": "Recognizes students attending approved high schools for outstanding academic achievement, provides honorary recognition with no monetary award. Approximately the top 10% of graduates from approved high schools are announced as State Scholars each year."
+    },
+    {
+        "title": "Presidential Award Program",
+        "awarder": "University of Illinois",
+        "summary": "High achieving newly admitted freshmen from several underrepresented groups are eligible for consideration for the PAP award. Requirements: rank in the top 40% of the high school class and an ACT composite score of 25 or higher"
+    }
+  ],
+    "skills": [
+    {
+        "name": "Development",
+        "level": "Wizard",
+        "keywords": [
+            "Python",
+            "Java",
+            "C/C++"
+      ]
+    }
+  ]
+}
